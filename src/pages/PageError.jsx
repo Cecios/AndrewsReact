@@ -5,3 +5,4 @@ const PageError = ()=> {
         </>
     )
 }
+export default PageError;
