@@ -4,9 +4,9 @@ import React from "react";
 const HomePage = () =>  {
     return(
         <>
-            <MainLayout>
-                <Main />
-            </MainLayout>
+        <MainLayout>
+            <Main/>
+        </MainLayout>
         </>
     )
 }

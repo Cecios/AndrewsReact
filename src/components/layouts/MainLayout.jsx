@@ -1,4 +1,3 @@
-import MyFooter from "../footer/MyFooter";
 import MyNavbar from "../navbar/MyNavbar";
 import React from "react";
 
