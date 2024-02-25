@@ -1,7 +1,14 @@
+import React from "react";
+import { Container,Row,Col } from "react-bootstrap";
+
 const Main = ()=> {
     return(
         <>
-            <div>ciao sono il main</div>
+            <Container>
+                <Row>
+                    
+                </Row>
+            </Container>
         </>
     )
 }
